@@ -3,7 +3,9 @@
 O projeto Lama, é um projeto back end onde se faz o cadastro de usuários.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/93271677/202273467-f7a5f6c4-eac1-4c6d-9d75-44796079ea6c.png)
-
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 
 ## 🚀 Descrição do Projeto
 
@@ -11,7 +13,7 @@ O projeto Lama, é uma aplicação Back end, que permite usuários de cadastrare
 
 ## 📋 Funcionalidades
 
-API: [https://developers.themoviedb.org/3/getting-started/introduction](https://documenter.getpostman.com/view/21551951/2s8YmLuiBa) </br>
+API: https://documenter.getpostman.com/view/21551951/2s8YmLuiBa </br>
 
 
 Endpoints:  POST /users/signup - Permite cadastrar usuários. </br>
