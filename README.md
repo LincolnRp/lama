@@ -4,7 +4,7 @@ O projeto Lama, é um projeto back end onde se faz o cadastro de usuários.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/93271677/202273467-f7a5f6c4-eac1-4c6d-9d75-44796079ea6c.png)
 <p align="center">
-  <img src="https://ibb.co/SrkXC9j" />
+  <img src="https://i.ibb.co/8cyDZSC/Screenshot-2.png" />
 </p>
 
 ## 🚀 Descrição do Projeto
