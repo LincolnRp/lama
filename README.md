@@ -1,4 +1,4 @@
-# Lama
+# Lama ⚙️
 
 O projeto Lama, é um projeto back end onde se faz o cadastro de usuários.
 
